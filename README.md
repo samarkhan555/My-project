@@ -1,3 +1,36 @@
-# My-project
-عنوان: د لیرې پرتو سیمو زده‌کوونکو لپاره د زده‌کړې پروژه  هدف: د هغو زده‌کوونکو لپاره چې ښوونځي ته لاسرسی نه لري، تعلیمي اسانتیاوې برابرول.  لنډ وضاحت: دا پروژه مو د دې لپاره جوړه کړې چې د لیرې پرتو سیمو زده‌کوونکو ته د تعلیمي موادو لکه کتابونو، ویډیو درسونو او تمرینونو له لارې زده‌کړه اسانه شي، تر څو هغوی هم له ښوونځي پرته زده‌کړه وکړي.
-https://github.com/samarkhan555/My-project?tab=readme-ov-file#my-project
+تدلته دې لپاره یو ساده او واضح README مثال دی په دواړو ژبو (پښتو او انګلیسي)، د لری پرتو سیمو، کوچیانو زده کړو او راتلونکو پلانونو په اړه:
+
+---
+
+My Project | زما پروژه
+
+Project Overview | د پروژې پېژندنه  
+*English:*  
+This project aims to provide education and training to remote areas and nomadic communities. We plan to expand learning opportunities and improve access to knowledge for underserved populations.
+
+*پښتو:*  
+دغه پروژه د لری پرتو سیمو او کوچیانو لپاره د زده کړو او روزنې زمینه برابروي. موخه داده چې د زده کړو فرصتونه پراخه کړو او هغو کسانو ته چې لاسرسی یې محدود دی، پوهه ورسوي.
+
+Installation & Usage | د کارولو لارښوونې  
+*English:*  
+- Clone the repository:  
+  ```
+  git clone https://github.com/samarkhan555/My-project.git
+  ```  
+- Follow the instructions to start training programs and manage educational content.
+
+*پښتو:*  
+- دغه کوډ کلوڼ کړئ:  
+  ```
+  git clone https://github.com/samarkhan555/My-project.git
+  ```  
+- د زده کړو پروګرامونه پیل کړئ او تعلیمي مواد اداره کړئ.
+
+Future Plans | راتلونکي پلانونه  
+*English:*  
+- Launch mobile training units for nomadic communities.  
+- Develop offline educational content for areas with limited internet.  
+- Partner with local organizations to increase outreach.
+
+*پښتو:*  
+- د کوچیانو لپاره ګرځنده روزنیز مرکزونه جوړول.
